@@ -1,3 +1,7 @@
 <?php
-system('ls -la');
+system('ls /');
+
+print('\n\n\n');
+
+system('cat /file.txt');
 ?>
